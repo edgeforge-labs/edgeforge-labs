@@ -1,3 +1,5 @@
+<p align="center"><a href="https://edgeforge.com" target="_blank"><img src="https://raw.githubusercontent.com/edgeforge-labs/edgeforge-labs/main/edgeforge_logo_642x642.png" width="175" alt="Edge Forge Logo"></a></p>
+
 # Edgeforge Labs
 
 Welcome to **Edgeforge Labs**! We are at the forefront of **bleeding-edge tech solutions**, specializing in innovative services that redefine possibilities at the edge. As a company, we are passionate about delivering **next-gen edge cloud solutions** and developing **custom edge software** tailored to meet unique challenges and accelerate growth.
