@@ -1,4 +1,4 @@
-<p align="center"><a href="https://edgeforge.com" target="_blank"><img src="https://raw.githubusercontent.com/edgeforge-labs/edgeforge-labs/main/edgeforge_logo_642x642.png" width="300" alt="Edge Forge Logo"></a></p>
+<p align="center"><a href="https://edgeforge.com" target="_blank"><img src="https://raw.githubusercontent.com/edgeforge-labs/edgeforge-labs/main/edgeforge_logo_642x642.png" width="275" alt="Edge Forge Logo"></a></p>
 
 # Edgeforge Labs
 
