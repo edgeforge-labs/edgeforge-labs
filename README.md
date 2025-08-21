@@ -7,7 +7,7 @@ An open source edge native collective. We create custom tooling for all types of
 ### 🌟 Our Mission
 To push the boundaries of technology and bring bleeding-edge solutions that empower businesses to thrive in an ever-evolving digital landscape.
 
-Find out more @ https://edgeforge.eu
+Find out more @ https://www.edgeforge.eu
 
 <!--
 Welcome to **Edgeforge Labs**! We are at the forefront of **bleeding-edge tech solutions**, specializing in innovative services that redefine possibilities at the edge. As a company, we are passionate about delivering **next-gen edge cloud solutions** and developing **custom edge software** tailored to meet unique challenges and accelerate growth.
