@@ -4,7 +4,7 @@
 
 An open source edge native collective. We create custom tooling for all types of infrastructure, from cloud to edge you can always rely on us to provide quality solutions.
 
-## 🌟 Our Mission
+### 🌟 Our Mission
 To push the boundaries of technology and bring bleeding-edge solutions that empower businesses to thrive in an ever-evolving digital landscape.
 
 Find out more @ https://edgeforge.eu
